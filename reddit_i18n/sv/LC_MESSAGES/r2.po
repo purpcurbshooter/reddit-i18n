@@ -3111,7 +3111,7 @@ msgstr ""
 
 #: r2/templates/messagecompose.html:31
 msgid "send a message"
-msgstr "skicka ett medellande"
+msgstr "skicka ett meddelande"
 
 #: r2/templates/messagecompose.html:51
 msgid "(username, or # followed by the reddit name)"
